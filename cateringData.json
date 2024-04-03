@@ -5,7 +5,7 @@
         "title": "Wedding Catering Package",
         "description": "Elegant and memorable catering services for your special day.",
         "price": "$1500",
-        "imgUrl":  "https://github.com/s022511h/catering-images/blob/main/lively_wedding_reception.jpg"
+        "imgUrl":  "https://raw.github.com/s022511h/catering-images/blob/main/lively_wedding_reception.jpg"
 
       },
       {
@@ -13,7 +13,7 @@
         "title": "Corporate Events Catering",
         "description": "Professional catering services to impress your clients and employees.",
         "price": "$2000",
-        "imgUrl":  "https://github.com/s022511h/catering-images/blob/main/lively_wedding_reception.jpg"
+        "imgUrl":  "https://raw.github.com/s022511h/catering-images/blob/main/lively_wedding_reception.jpg"
 
 
       }
