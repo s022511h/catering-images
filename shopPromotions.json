@@ -2,8 +2,8 @@
   "promotions": [
     {
       "title": "Signature Chocolate Fudge Cake",
-      "imgUrl": "https://github.com/s022511h/catering-images/blob/main/chocFudgeCake.jpg",
-      "price": "£25",
+      "imgUrl": "https://raw.githubusercontent.com/s022511h/catering-images/main/chocFudgeCake.jpg",
+      "price": "£15",
       "description": "Our decadent Chocolate Fudge Cake is a favorite, made with rich cocoa and smooth, velvety fudge.",
       "categories": ["Cakes"],
       "reviews": [
@@ -19,7 +19,7 @@
     },
     {
       "title": "Afternoon Tea Service",
-      "imgUrl": "https://github.com/s022511h/catering-images/blob/main/afternoonTea.jpg",
+      "imgUrl": "https://raw.githubusercontent.com/s022511h/catering-images/main/afternoonTea.jpg",
       "price": "£40 per person",
       "description": "Enjoy a classic afternoon tea with a selection of finely cut sandwiches, freshly baked scones with clotted cream and jam, and a mouth-watering range of exquisitely presented pastries and teacakes.",
       "categories": ["Afternoon Tea"],
@@ -32,13 +32,13 @@
     },
     {
       "title": "Meet Our Friendly Staff",
-      "imgUrl": "https://github.com/s022511h/catering-images/blob/main/staffGroupPhoto.jpg",
+      "imgUrl": "https://raw.githubusercontent.com/s022511h/catering-images/main/staffGroupPhoto.jpg",
       "description": "Our dedicated team, passionate about creating the best experience for our customers. Come meet us!",
       "categories": ["Staff"]
     },
     {
       "title": "Catering Services",
-      "imgUrl": "https://github.com/s022511h/catering-images/blob/main/caterPic.jpg",
+      "imgUrl": "https://raw.githubusercontent.com/s022511h/catering-images/main/caterPic.jpg",
       "cateringPackages": [
         {
           "package": "Basic Package",
