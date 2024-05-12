@@ -1,0 +1,58 @@
+{
+  "promotions": [
+    {
+      "title": "Signature Chocolate Fudge Cake",
+      "imgUrl": "https://github.com/s022511h/catering-images/blob/main/chocFudgeCake.jpg",
+      "price": "£25",
+      "description": "Our decadent Chocolate Fudge Cake is a favorite, made with rich cocoa and smooth, velvety fudge.",
+      "categories": ["Cakes"],
+      "reviews": [
+        {
+          "customer": "Alex",
+          "review": "This cake is a chocolate lover's dream, absolutely delicious!"
+        },
+        {
+          "customer": "Jordan",
+          "review": "Rich, moist, and utterly irresistible. The perfect cake for any occasion."
+        }
+      ]
+    },
+    {
+      "title": "Afternoon Tea Service",
+      "imgUrl": "https://github.com/s022511h/catering-images/blob/main/afternoonTea.jpg",
+      "price": "£40 per person",
+      "description": "Enjoy a classic afternoon tea with a selection of finely cut sandwiches, freshly baked scones with clotted cream and jam, and a mouth-watering range of exquisitely presented pastries and teacakes.",
+      "categories": ["Afternoon Tea"],
+      "reviews": [
+        {
+          "customer": "Emily",
+          "review": "An exquisite afternoon tea experience with delightful treats. Highly recommended!"
+        }
+      ]
+    },
+    {
+      "title": "Meet Our Friendly Staff",
+      "imgUrl": "https://github.com/s022511h/catering-images/blob/main/staffGroupPhoto.jpg",
+      "description": "Our dedicated team, passionate about creating the best experience for our customers. Come meet us!",
+      "categories": ["Staff"]
+    },
+    {
+      "title": "Catering Services",
+      "imgUrl": "https://github.com/s022511h/catering-images/blob/main/caterPic.jpg",
+      "cateringPackages": [
+        {
+          "package": "Basic Package",
+          "price": "£200",
+          "includes": ["10 cakes", "Assorted pastries", "Tea and coffee"]
+        },
+        {
+          "package": "Deluxe Package",
+          "price": "£400",
+          "includes": ["20 cakes", "Assorted pastries and sandwiches", "Tea, coffee, and champagne"]
+        }
+      ],
+      "description": "We offer catering services for all your special events, providing a delicious array of baked goods and beverages.",
+      "categories": ["Catering"]
+    }
+  ]
+}
